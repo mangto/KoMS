@@ -1,0 +1,1 @@
+from KoMS.__main__ import KoMS
